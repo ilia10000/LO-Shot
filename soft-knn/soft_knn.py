@@ -10,9 +10,10 @@ import numpy as np
 
 
 class SoftKNN:
-    def __init__(self):
+    def __init__(self,k=None):
         self.x=[]
         self.y=[]
+        self.k=k
     def fit(self,x,y):
         self.x=x
         self.y=y
@@ -23,9 +24,17 @@ class SoftKNN:
             dists.append(dist)
         return dists
     def calc_lab(self, dists):
+        
         label=np.zeros_like(self.y[0])
-        for prototype, dist in zip(self.y, dists):
-            label+=prototype/dist
+        tups = zip(self.y, dists)
+        if self.k is None:
+            for prototype, dist in tups:
+                label+=prototype/dist
+        else:
+            tups=list(tups)
+            res = sorted(tups, key = lambda x: x[1])[:self.k]
+            for prototype, dist in res:
+                label+=prototype/dist
         return label
             
     def predict(self, points):
