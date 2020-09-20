@@ -2,5 +2,5 @@
 A soft-label k-Nearest Neighbors classifier.
 Online demo can be found on Binder (click "launch binder" above).
 
-To run code offline, download this repo and run the soft_knn_vis.ipynb notebook
+To run code offline, download this repo and run the `soft_knn_vis.ipynb` notebook
 
