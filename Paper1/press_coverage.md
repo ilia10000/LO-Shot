@@ -14,3 +14,4 @@ LO-Shot Learning has received significant press coverage:
 - [Actu IA](https://www.actuia.com/actualite/des-chercheurs-de-luniversite-de-waterloo-presentent-le-less-than-one-shot-learning-pour-creer-des-modeles-sur-des-datasets-limites/)
 - [University of Waterloo Imprint](http://uwimprint.ca/article/know-more-than-you-know/)
 - [Radical Reads by Radical Ventures](https://radical.vc/radical-reads-oct-19-2020)
+- [AI.Science](https://www.youtube.com/watch?v=n7Z40RzxYzc)
