@@ -1,7 +1,9 @@
 # Papers related to 'Less Than One'-Shot (LO-Shot) Learning
 ## Papers found in this repo
 ### Paper 1 - 'Less Than One'-Shot Learning: Learn N Classes from M<N Samples
-Preprint - https://arxiv.org/abs/2009.08449 (appearing soon in AAAI 2021 proceedings)
+Preprint - https://arxiv.org/abs/2009.08449 
+
+Published - In AAAI 2021 Proceedings
 
 Code and appendix - [Paper1 directory](Paper1/)
 
@@ -14,12 +16,16 @@ Online demo - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.
 ### Paper 2 - Optimal 1-NN Prototypes for Pathological Geometries
 Preprint - https://arxiv.org/abs/2011.00228
 
+Published - In PeerJ Computer Science
+
 Code - [Paper2 directory](Paper2/)
 
 TL;DR - Design optimal 1-NN prototypes even in pathological cases where most prototype methods fail.
 
 ### Paper 3 - One Line to Rule Them All: Generating LO-Shot Soft-Label Prototypes
 Preprint - https://arxiv.org/abs/2102.07834
+
+Published - In IJCNN 2021 Proceedings
 
 Code - [Paper3 directory](Paper3/)
 
