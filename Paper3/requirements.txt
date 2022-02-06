@@ -35,7 +35,7 @@ nbconvert==6.0.7
 nbformat==5.1.2
 nest-asyncio==1.5.1
 notebook==6.4.1
-numpy==1.20.0
+numpy==1.21.0
 osqp==0.6.2.post0
 packaging==20.9
 palmerpenguins==0.1.4
