@@ -31,6 +31,15 @@ Code - [Paper3 directory](Paper3/)
 
 TL;DR - Represent your training dataset with fewer prototypes than even the number of classes found in the data.
 
+### Paper 4 - Can humans do less-than-one-shot learning?
+Preprint - [https://arxiv.org/abs/2102.07834](https://arxiv.org/abs/2202.04670)
+
+Published - In CogSci 2022 Proceedings
+
+Code - [LOSLP directory](LOSLP/)
+
+TL;DR - Humans can also do less-than-one-shot learning.
+
 ## Papers found in other repos
 
 ### Paper - Soft-Label Dataset Distillation and Text Dataset Distillation
