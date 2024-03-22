@@ -12,7 +12,7 @@ ecos==2.0.7.post1
 entrypoints==0.3
 importlib-metadata==3.4.0
 ipykernel==5.4.3
-ipython==7.31.1
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
