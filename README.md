@@ -38,7 +38,16 @@ Published - In CogSci 2022 Proceedings
 
 Code - [LOSLP directory](LOSLP/)
 
-TL;DR - Humans can also do less-than-one-shot learning.
+TL;DR - Humans can also do LO-shot learning.
+
+### Paper 5 - Using Compositionality to Learn Many Categories from Few Examples
+Preprint - https://osf.io/preprints/psyarxiv/upn8e
+
+Published - In CogSci 2024 Proceedings
+
+Code - TBA
+
+TL;DR - Humans are better at LO-shot learning when using techniques like compositional generalization.
 
 ## Papers found in other repos
 
